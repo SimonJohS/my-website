@@ -2,8 +2,4 @@
 
 The best website in the world
 
-example change
-
-another update
-
-and again another tweak
+updates made on main on github
